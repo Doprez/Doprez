@@ -10,7 +10,6 @@ my current interests are:
 - If it wasnt obvious I love C# and the .NET ecosystem its performance truly blows me away.
 
 <br />
-<br />
 
 [<img height="50" alt="Stride" src="stride.png">](https://www.stride3d.net/)
 [<img height="50" alt=".NET" src="dotnet.png">](https://dotnet.microsoft.com/en-us/)
