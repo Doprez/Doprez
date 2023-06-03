@@ -13,7 +13,7 @@ my current interests are:
 <br />
 
 <a href="default.asp">
-<img height="50" alt="Stride" src="https://github.com/Doprez/Doprez/assets/73259914/d549613c-570a-480f-8b67-2d25f9a85a98" />
+<img height="50" alt="Stride" src="https://github.com/Doprez/Doprez/assets/73259914/d549613c-570a-480f-8b67-2d25f9a85a98">
 </a>
 <img height="50" alt=".NET" src="https://github.com/Doprez/Doprez/assets/73259914/82ed9f70-6bc8-4f46-8f31-0a6094210840" />
 <img height="50" alt="C#" src="https://github.com/Doprez/Doprez/assets/73259914/7ad0f539-978f-4c66-bec6-48d62b52b3a7" />
