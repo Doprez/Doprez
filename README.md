@@ -13,11 +13,11 @@ my current interests are:
 <br />
 
 [<img height="50" alt="Stride" src="stride.png">](https://www.stride3d.net/)
-<img height="50" alt=".NET" src="https://github.com/Doprez/Doprez/assets/73259914/82ed9f70-6bc8-4f46-8f31-0a6094210840" />
-<img height="50" alt="C#" src="https://github.com/Doprez/Doprez/assets/73259914/7ad0f539-978f-4c66-bec6-48d62b52b3a7" />
-<img height="50" alt="Docker" src="https://github.com/Doprez/Doprez/assets/73259914/971fc217-f456-45e8-b829-81404c2a0391" />
-<img height="50" alt="Docker" src="https://github.com/Doprez/Doprez/assets/73259914/89c27b9e-ee86-47fc-a92a-29ee45359937" />
-<img height="50" alt="Docker" src="https://github.com/Doprez/Doprez/assets/73259914/bb646635-d4d4-4b5f-83f7-54b455d6cd6e" />
+[<img height="50" alt=".NET" src="dotnet.png">](https://dotnet.microsoft.com/en-us/)
+[<img height="50" alt="chsarp" src="csharp.png">](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img height="50" alt="docker" src="docker.png">](https://hub.docker.com/search?q=)
+[<img height="50" alt="terraform" src="terraform.png">](https://www.terraform.io/)
+[<img height="50" alt="godot" src="godot.png">](https://godotengine.org/)
 
 <br />
 
