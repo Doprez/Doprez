@@ -12,6 +12,8 @@ my current interests are:
 
 [<img height="50" alt="Stride" src="stride.png">](https://www.stride3d.net/)
 [<img height="50" alt="godot" src="godot.png">](https://godotengine.org/)
+[<img height="50" alt="unity" src="terraform.png">](https://unity.com/)
+[<img height="50" alt="blender" src="terraform.png">](https://www.blender.org/)
 [<img height="50" alt=".NET" src="dotnet.png">](https://dotnet.microsoft.com/en-us/)
 [<img height="50" alt="chsarp" src="csharp.png">](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img height="50" alt="docker" src="docker.png">](https://hub.docker.com/search?q=)
