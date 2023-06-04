@@ -11,11 +11,11 @@ my current interests are:
 <br />
 
 [<img height="50" alt="Stride" src="stride.png">](https://www.stride3d.net/)
+[<img height="50" alt="godot" src="godot.png">](https://godotengine.org/)
 [<img height="50" alt=".NET" src="dotnet.png">](https://dotnet.microsoft.com/en-us/)
 [<img height="50" alt="chsarp" src="csharp.png">](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img height="50" alt="docker" src="docker.png">](https://hub.docker.com/search?q=)
 [<img height="50" alt="terraform" src="terraform.png">](https://www.terraform.io/)
-[<img height="50" alt="godot" src="godot.png">](https://godotengine.org/)
 
 <br />
 
