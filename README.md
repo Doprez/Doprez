@@ -21,5 +21,5 @@ my current interests are:
 
 <br />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Doprez&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs" alt="Doprez's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doprez&layout=compact&theme=onedark&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Doprez&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&hide_rank=true" alt="Doprez's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doprez&layout=compact&theme=onedark&hide_border=true" /></a> |
 | ------------- | ------------- |
