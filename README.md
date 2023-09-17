@@ -5,7 +5,7 @@ my current interests are:
 - [Stride3d](https://www.stride3d.net/) a completely open source primarily C# game engine!
 - Backend development, currently working for a company creating web APIs mostly in C# and DevOps automations.
 - DevOps because who doesnt love having the power to create the web with a single command in the command line!
-- Game dev as a hobby with any engine that interests me. (Stride3d, Godot and Unity are my current experiments)
+- Game dev as a hobby with any engine that interests me. (Stride3d, Godot and Flax are my current experiments)
 - If it wasnt obvious I love C# and the .NET ecosystem its performance and ease of use blows me away.
 
 <br />
