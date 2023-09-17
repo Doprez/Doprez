@@ -5,14 +5,13 @@ my current interests are:
 - [Stride3d](https://www.stride3d.net/) a completely open source primarily C# game engine!
 - Backend development, currently working for a company creating web APIs mostly in C# and DevOps automations.
 - DevOps because who doesnt love having the power to create the web with a single command in the command line!
-- Game dev as a hobby with any engine that interests me. (Stride3d, Godot and Flax are my current experiments)
+- Game dev as a hobby with any engine that interests me. (Stride3d and Godot are my current experiments)
 - If it wasnt obvious I love C# and the .NET ecosystem its performance and ease of use blows me away.
 
 <br />
 
 [<img height="50" alt="Stride" src="stride.png">](https://www.stride3d.net/)
 [<img height="50" alt="godot" src="godot.png">](https://godotengine.org/)
-[<img height="50" alt="unity" src="unity.png">](https://unity.com/)
 [<img height="50" alt="blender" src="blender.png">](https://www.blender.org/)
 [<img height="50" alt=".NET" src="dotnet.png">](https://dotnet.microsoft.com/en-us/)
 [<img height="50" alt="chsarp" src="csharp.png">](https://learn.microsoft.com/en-us/dotnet/csharp/)
