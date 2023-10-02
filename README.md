@@ -6,7 +6,7 @@ my current interests are:
 - Backend development, currently working for a company creating web APIs mostly in C# and DevOps automations.
 - DevOps because who doesnt love having the power to create the web with a single command in the command line!
 - Game dev as a hobby with any engine that interests me. (Stride3d and Godot are my current experiments)
-- If it wasnt obvious I love C# and the .NET ecosystem its performance and ease of use blows me away.
+- If it wasn't obvious, I love C# and the .NET ecosystem the performance and ease of use blows me away.
 
 <br />
 
